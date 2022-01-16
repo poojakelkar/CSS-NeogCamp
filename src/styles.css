@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+.card {
+  background-color: aliceblue;
+  width: 450px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.card-title {
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.card-body {
+  padding: 1rem 0;
+  border-bottom: 1px solid #ccc;
+}
+.card-footer {
+  padding: 1rem 0;
+  align-self: flex-end;
+}

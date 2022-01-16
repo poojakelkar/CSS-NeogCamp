@@ -23,3 +23,10 @@ body {
   padding: 1rem 0;
   align-self: flex-end;
 }
+.btn {
+  background-color: paleturquoise;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  width: 50px;
+}

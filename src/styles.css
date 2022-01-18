@@ -48,3 +48,6 @@ body {
   background-color: red;
   color: white;
 }
+.badge:hover {
+  background-color: rgb(255, 112, 112);
+}
